@@ -6,3 +6,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vxrm&theme=hacker)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vxrm&layout=compact&theme=tokyonight)
 </p>
+
+![Pineapple](https://pinpple.github.io/site/logo.png)
