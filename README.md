@@ -7,4 +7,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vxrm&layout=compact&theme=tokyonight)
 </p>
 
-![https://pinpple.github.io/site](https://pinpple.github.io/site/logo.png)
+![https://pinpple.github.io/site/logo.png](https://pinpple.github.io/site/)
